@@ -1,0 +1,47 @@
+
+
+
+                 ORDER #  600
+
+DATE: 07/05/2050          TIME: 09:05 
+SERVER:                        vidvab 
+Chocolate Milkshake            $79.93
+Chai Latte                     $30.21
+Sparkling Water                $80.19
+Freshly Brewed Black Tea       $5.29
+Classic Cola                   $57.38
+Iced Coffee                    $21.75
+Orange Juice                   $16.30
+Deviled Eggs                   $28.87
+Cheese Platter                 $86.40
+Fried Calamari                 $13.58
+Bruschetta                     $93.82
+Sliders                        $72.22
+Shrimp Cocktail                $70.37
+Potato Skins                   $65.73
+Bacon-Wrapped Scallops         $14.18
+Spring Rolls                   $38.66
+Garlic Bread                   $66.63
+Nachos                         $87.01
+Mini Tacos                     $13.99
+Caprese Salad                  $57.51
+Crispy Onion Rings             $68.66
+Spinach Artichoke Dip          $7.99
+Butternut Squash Ravioli       $39.91
+Steak Fajitas                  $72.98
+Seafood Paella                 $77.52
+Mushroom Risotto               $1.24
+Taco Platter                   $68.38
+Shrimp Scampi                  $65.11
+Hawaiian Poke Bowl             $22.84
+Caramel Flan                   $1.38
+Ice Cream Sundae               $34.40
+
+VISA ENDS IN 4071
+           Sub Total: $1460.43
+                  Tax: $146.04
+                  Tip: $321.29
+               Total: $1927.76
+
+
+
